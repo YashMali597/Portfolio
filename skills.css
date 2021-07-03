@@ -1,0 +1,26 @@
+body{
+    background-color: aliceblue;
+}
+#heading{
+    font-size: 300%;
+    text-align: center;
+    background-color: brown;
+}
+#java{
+    font-size: 150%;
+}
+#python{
+    font-size: 150%;
+}
+.left-col, .right-col{
+    width: 25%;
+    float: left;
+}
+.center{
+    float: left;
+    width: 25%;
+}
+.container{
+    padding: 1%;
+    box-sizing: border-box;
+}

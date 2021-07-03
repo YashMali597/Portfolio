@@ -1,0 +1,13 @@
+#head{
+    background-color: rgb(91, 91, 141);
+    text-align: center;
+    height: 100px;
+    font-size: 300%;
+}
+body{
+    background-color: aliceblue;
+}
+
+.info{
+    text-align: center;
+}

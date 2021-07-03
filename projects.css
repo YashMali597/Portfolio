@@ -1,0 +1,13 @@
+#header{
+    text-align: center;
+    background-color: rgb(138, 138, 233);
+    height: 100px;
+    font-size: 300%;
+}
+h2{
+    background-color: rgb(230, 98, 98);
+    width: auto;
+}
+body{
+    background-color: aliceblue;
+}

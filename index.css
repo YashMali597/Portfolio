@@ -1,0 +1,70 @@
+body{
+    background-color: aliceblue;
+}
+
+
+
+.navbar{
+background-color: black;
+border-radius: 30px;
+color: aliceblue;
+
+}
+.navbar li a:hover{
+background-color: aliceblue;
+color: black;
+}
+.navbar li{
+float:left;
+list-style: none; 
+margin: 13px 20px;
+}
+.navbar ul{
+overflow: auto;
+}
+.navbar li a{
+padding: 3px 3px;
+text-decoration: none;
+color:aliceblue;
+}
+.navbar input{
+border: 2px solid black;
+border-radius: 14px;
+padding: 3px 17px;
+width: 129px;
+}
+
+
+
+#ptf{
+
+    font-size: 2cm;
+    
+    
+    text-align: center;
+    background-color: aqua;
+    height: 100px;
+
+}
+#int{
+    font-size: 1cm;
+    text-align: center;
+}
+.intro{
+    color:black;
+    text-align: center;
+    font-size: 200%;
+}
+#skill{
+    text-align: center;
+    font-size: 200%;
+    border: 1cm;
+    border-color: black;
+    border-width: 3px;
+}
+.skills{
+    background-color:aquamarine;
+}
+.contact{
+    text-align: center;
+}
